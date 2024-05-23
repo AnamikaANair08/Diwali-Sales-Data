@@ -18,4 +18,5 @@ The dataset used here is Diwali Sales. It has 15 columns and 11251 rows and cont
 13. Amount
 14. Status
 15. unnamed1
+
 The libraries that I have used are pandas, numpy, matplotlib. 
